@@ -1,0 +1,2 @@
+Prefix plugins/A3TGCN/example/
+Plugin A3TGCN inputfile data/ outputfile .
